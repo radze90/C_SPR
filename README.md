@@ -10,5 +10,5 @@
 |         |                 | bye.c           |
 |         |                 | bye.h           |
 | 2       | whoami.c        |                 |
-| 3       | pwd             |                 |
-| 4       | tty             |                 |
+| 3       | pwd.c           |                 |
+| 4       | tty.c           |                 |
