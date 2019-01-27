@@ -2,5 +2,5 @@
 
 void bye(char *name)
 {
-   printf("Bye, %s!\n", name);
+    printf("Bye, %s!\n", name);
 }

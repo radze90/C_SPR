@@ -5,9 +5,9 @@
 #define NAME "username"
 
 
-int main(){
-   hello(NAME);
-   bye(NAME);
+int main() {
+    hello(NAME);
+    bye(NAME);
 
-   return 0;
+    return 0;
 }

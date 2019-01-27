@@ -1,6 +1,6 @@
 #ifndef BYE_H
-   #define BYE_H BYE.H
+#define BYE_H BYE.H
 
-   void bye();
+void bye();
 
 #endif
